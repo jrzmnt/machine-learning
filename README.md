@@ -7,8 +7,7 @@ Feel free to use any of the codes and the materials to improve yourself and to h
 
 If you want to know more about my work you can find me at:
 
-- [Site](https://jrzmnt.github.io/)
-- [GitHub](https://github.com/jrzmnt)
+- [Website](https://jrzmnt.github.io/)
 - [DBLP](http://dblp.uni-trier.de/pers/hd/m/Monteiro:Juarez)
 - [Google Scholar](https://scholar.google.com.br/citations?user=LVhKmIIAAAAJ&hl=pt-BR)
 - [Lattes](http://lattes.cnpq.br/6307746290114554)
